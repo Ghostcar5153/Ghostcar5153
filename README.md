@@ -41,8 +41,7 @@
 
 ### 📫 Let's Connect
 
-- 📧 Email: [antonbatistao@gmail.com](mailto:antonbatistao@gmail.com)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- 📧 Email: [ghostcar5153@gmail.com](mailto:ghostcar5153@gmail.com)
 - 🌐 Portfolio: [custora.dev](https://custora.dev) *(Coming Soon)*
 
 ---
