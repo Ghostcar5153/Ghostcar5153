@@ -2,7 +2,7 @@
 <h3 align="center">Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3EFFBF&center=true&vCenter=true&multiline=true&width=600&lines=Building+secure+systems...;Exploring+the+depths+of+technology...;Always+learning,+always+growing." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3EFFBF&center=true&vCenter=true&multiline=true&width=600&lines=Building+secure+systems..." alt="Typing SVG" />
 </p>
 
 ---
@@ -11,7 +11,7 @@
 
 - 🎓 Recent high school graduate with honors, passionate about technology and cybersecurity.
 - 🛠️ Skilled in Python, Rust, JavaScript, and VBA; comfortable across Windows, Linux, and macOS.
-- 🌐 Fluent in Spanish and English; proficient in Italian and German.
+- 🌐 Fluent in Spanish and English; learning Italian and German.
 - 📚 Committed to continuous learning and sharing knowledge with the community.
 
 ---
